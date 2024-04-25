@@ -9,7 +9,7 @@ import { BsTwitterX } from "react-icons/bs";
 import { FaPinterest } from "react-icons/fa";
 
 const Footer = () => {
-  const links: Array<String> = [
+  const links: Array<string> = [
     "About Us",
     "Careers",
     "Contact",

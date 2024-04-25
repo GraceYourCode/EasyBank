@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 interface navProps {
-  text: String,
+  text: string,
   footer?: Boolean,
 }
 

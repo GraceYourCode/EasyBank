@@ -8,7 +8,7 @@ import { IoIosMenu, IoIosClose } from "react-icons/io";
 import { useState } from 'react';
 
 const NavigationBar = () => {
-  const links: String[] = [
+  const links: string[] = [
     "Home",
     "About",
     "Contact",
